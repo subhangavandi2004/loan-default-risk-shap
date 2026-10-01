@@ -1,0 +1,11 @@
+xgboost
+scikit-learn
+shap
+pandas
+numpy
+matplotlib
+joblib
+fastapi
+httpx
+pytest
+uvicorn
